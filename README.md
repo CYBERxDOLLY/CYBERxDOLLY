@@ -20,7 +20,7 @@ Atualmente possuo conhecimentos com Front-End e estou em treinamento e estudo co
 <br>
 <br>
 
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERxDOLLY&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERxDOLLY&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=CYBERxDOLLY&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
