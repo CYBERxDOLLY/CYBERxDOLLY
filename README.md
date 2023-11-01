@@ -2,10 +2,14 @@
 
 Me chamo Brayan Soares, sou de Porto Alegre, Rio Grande do Sul.
 <br>
-Desde novo sempre amei tecnologia, sendo muito apaixonado por jogos eletrônicos, aprendi a usar computadores e celulares e hoje estou buscando pelo meu primeiro emprego como desenvolvedor web.
+Desde novo sempre amei tecnologia e sendo muito apaixonado por jogos eletrônicos, aprendi a usar computadores e celulares.
 <br>
-Estou procurando sempre aprender e evoluir na área do desenvolvimento web para seguir carreira na programação.
-Atualmente possuo conhecimentos com Front-End e estou em treinamento e estudo constante.
+Hoje estou buscando pela minha primeira oportunidade de emprego como desenvolvedor web.
+<br>
+Procuro sempre aprender e evoluir na área do desenvolvimento web para seguir carreira na programação.
+<br>
+
+Atualmente possuo conhecimentos com Front-End e estou em estudo e treinamento constante.
 <br>
 <br>
 <h3 align=center>:bulb: Tecnologias:</h3>
