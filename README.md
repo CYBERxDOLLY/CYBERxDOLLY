@@ -30,7 +30,9 @@ Atualmente possuo conhecimentos com Front-End, estudando e treinando minhas habi
     
   [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=CYBERxDOLLY&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERxDOLLY&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERxDOLLY&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![](https://komarev.com/ghpvc/?username=CYBERxDOLLY&label=VISITAS+AO+PERFIL&color=25D366)
   
   </div>
   <br>
