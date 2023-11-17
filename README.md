@@ -9,7 +9,7 @@ Hoje estou buscando pela minha primeira oportunidade de emprego como desenvolved
 Procuro sempre aprender e evoluir na área do desenvolvimento web para seguir carreira na programação.
 <br>
 
-Atualmente possuo conhecimentos com Front-End e estou em estudo e treinamento constante.
+Atualmente possuo conhecimentos com Front-End, estudando e treinando minhas habilidades constantemente.
 <br>
 <br>
 <h3 align=center>:bulb: Tecnologias:</h3>
