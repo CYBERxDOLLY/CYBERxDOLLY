@@ -12,7 +12,7 @@ Procuro sempre aprender e evoluir na área do desenvolvimento web para seguir ca
 Atualmente possuo conhecimentos com Front-End, estudando e treinando minhas habilidades constantemente.
 <br>
 <br>
-<h3 align=center>:bulb: Tecnologias:</h3>
+<h3 align=center>:bulb: Tecnologias Que Estou Aprendendo:</h3>
 <br>
 <div align=center>
   
