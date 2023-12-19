@@ -15,18 +15,24 @@ Atualmente possuo conhecimentos com Front-End, estudando e treinando minhas habi
 <h3 align=center>:bulb: Tecnologias:</h3>
 <br>
 <div align=center>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5-badge"> <a href="https://desafio-2-css-responsivo.netlify.app/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3-badge"></a> <a href="https://exercicio-menu-login.netlify.app/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript-badge"></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git-badge"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge">
-
-<h3>:speech_balloon: Contato:</h3>
-<a href="mailto:brayansoaresdeaguiar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Brayan Soares"> </a>
-<a href="https://www.linkedin.com/in/brayan-soares/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Brayan Soares"> </a>
-<a href="https://wa.me/+5551995166522"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Brayan Soares"> </a>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <h3>:speech_balloon: Contato:</h3>
+  
+  <a href="mailto:brayansoaresdeaguiar@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/brayan-soares/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://wa.me/+5551995166522">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 </div>
 <br>
 <hr>
 <br>
 
-  <div align=center>
+<div align=center>
     
   [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=CYBERxDOLLY&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,7 +40,7 @@ Atualmente possuo conhecimentos com Front-End, estudando e treinando minhas habi
 
   ![](https://komarev.com/ghpvc/?username=CYBERxDOLLY&label=VISITAS+AO+PERFIL&color=25D366)
   
-  </div>
-  <br>
-  <hr>
+</div>
+<br>
+<hr>
 
